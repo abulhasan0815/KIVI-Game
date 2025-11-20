@@ -13,3 +13,17 @@
 - 🤖**Computer Opponent with easy and hard difficulty**
 - 🎨**Color-Blind Modes (Monochromacy, Tritanopia, Protanopia)**
 - 🎯**Points based on the type of square (Dark Pink: 3 points, Light Pink: 2 points, White: 1 point)**
+
+## 🛠️ Tech Stack
+### Java, Java Swing  
+
+## 📦 Installing
+
+### Run on Command line:
+```bash
+cd clone https://github.com/abulhasan0815/KIVI-Game.git
+cd KIVI-Game
+java -jar GAME_START.jar
+```
+#
+![Game Mode](views/Normal%20Coloured%20Mode.png "Game Mode")
