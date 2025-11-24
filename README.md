@@ -21,7 +21,7 @@
 
 ### Run on Command line:
 ```bash
-cd clone https://github.com/abulhasan0815/KIVI-Game.git
+git clone https://github.com/abulhasan0815/KIVI-Game.git
 cd KIVI-Game
 java -jar GAME_START.jar
 ```
